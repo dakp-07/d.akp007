@@ -1,0 +1,3 @@
+{"sent_at":"2022-03-28T11:41:35.075Z","sdk":{"name":"sentry.javascript.browser","version":"6.3.1"}}
+{"type":"session"}
+{"sid":"bc429915248c47dc9a5701d8186a6567","init":true,"started":"2022-03-28T11:41:35.074Z","timestamp":"2022-03-28T11:41:35.074Z","status":"ok","errors":0,"duration":0,"attrs":{"release":"2.0.189"}}
